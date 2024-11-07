@@ -3,9 +3,9 @@ This is the repository for the TMTV Thermal-MOT Dataset, a dataset proposed in o
 
 ## Introduction
 
-We introduce TMTV, an extensive dataset for multi-object tracking in infrared imaging, which includes data from both land and maritime environments. The dataset contains 18 sequences of thermal infrared images, featuring 2,692 frames with over 15,000 bounding boxes with 5 different classes, captured at 640 x 480 resolution. The dataset is divided into 13 training sequences and 5 test sequences.
+We introduce TMTV, an extensive dataset for multi-object detection and tracking in infrared imaging, which includes data from both land and maritime environments. The dataset contains 18 sequences of thermal infrared images, featuring 2,692 frames with over 15,000 bounding boxes with 5 different classes, captured at 640 x 480 resolution. The dataset is divided into 13 training sequences and 5 test sequences.
 
-Our documented tracking method achieved an accuracy of 59.96 HOTA, 52.42 MOTA and 69.37 IDF on the test sequences of the dataset. 
+Our YOLOv7+CBAM object detector achieved a mAP50 and mAP score of 76.6 and 47.4, respectively, while our documented tracking method achieved an accuracy of 59.96 HOTA, 52.42 MOTA and 69.37 IDF on the test sequences of the dataset. 
 
 ## Dataset Format
 
