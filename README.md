@@ -20,4 +20,4 @@ Link: [https://drive.google.com/file/d/1Sv4acnazzl1vVELslddoosEMe2_4y841/view?us
 
 ## References
 
-(awaiting review)
+[1] Thao-Anh Tran, Vu-Minh Le, Thanh-Tung Phan et al. Advancing Thermal Multi-Object Tracking with Attention and Metric Fusion, 01 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5408058/v1]
