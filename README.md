@@ -1,5 +1,5 @@
 # TMTV Thermal-MOT Dataset
-This is the repository for the TMTV Thermal-MOT Dataset, a dataset proposed in our paper **Advancing Thermal Multi-Object Tracking with Attention and Metric Fusion** which is under review.
+This is the repository for the TMTV Thermal-MOT Dataset, a dataset proposed in our paper **Advancing Thermal Multi-Object Tracking with Attention and Metric Fusion** which is published in Open Computer Science SI: Applied AI, Machine Learning, and Data Engineering.
 
 ## Introduction
 
@@ -18,6 +18,16 @@ The dataset features 5 different classes of objects, with class IDs `1`, `2`, `4
 ### Google Drive
 Link: [https://drive.google.com/file/d/1Sv4acnazzl1vVELslddoosEMe2_4y841/view?usp=sharing](https://drive.google.com/file/d/1Sv4acnazzl1vVELslddoosEMe2_4y841/view?usp=sharing)
 
-## References
+## Citation
 
-[1] Thao-Anh Tran, Vu-Minh Le, Thanh-Tung Phan et al. Advancing Thermal Multi-Object Tracking with Attention and Metric Fusion, 01 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5408058/v1]
+```
+@article{tran2026advancing,  
+  title={Advancing Thermal Multi-Object Tracking with Attention and Metric Fusion},
+  author={Tran, Thao-Anh and Le, Vu-Minh and Phan, Thanh-Tung and Hoang, Dung and Phan, Duc and Ninh, Huong and Tran, Hai},
+  journal={Open Computer Science},
+  volume={16},
+  number={1},
+  year={2026},
+  publisher={De Gruyter}
+}
+```
